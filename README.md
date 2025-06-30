@@ -1,18 +1,38 @@
-- `Clinic_Sales_Analysis.xlsx`: Contains raw sales data and summary
-- `Clinic_Sales_Analysis_2025.pbit`: Interactive Power BI dashboard for visual analysis
-# Clinic Sales Analysis
+# Clinic Sales Analysis 📊
 
-📊 This project contains an Excel-based analysis for a medical clinic’s weekly sales.  
-It includes details such as services provided, doctor performance, patient insurance status, and revenue analysis.
+This project provides an Excel-based and Power BI analysis for a medical clinic’s weekly sales data.
 
-## 📁 File Included
-- `Clinic_Sales_Analysis.xlsx` → Contains two sheets:
-  - **Sales Data**: Raw data of clinic visits
-  - **Summary**: Total revenue, top earning doctor, and active month
+---
 
-## ✅ Tools Used
-- Microsoft Excel
-- Power Bi
-![Clinic Sales Analysis](https://github.com/user-attachments/assets/7b645cf1-9820-4669-89cf-603b150fa01b)
+## 🔍 Data Features:
+- **Doctor Name**
+- **Service Type**
+- **Patient**
+- **Insurance Status (Yes/No)**
+- **Price**
+- **Date of Visit**
 
-Created by **Ahmed Sabry** – 2025
+---
+
+## 📊 Insights:
+- ✅ Total revenue calculated
+- ✅ Most profitable doctor identified
+- ✅ Most active month highlighted
+- ✅ Visual dashboard via Power BI
+
+---
+
+## 📁 Files Included:
+- `Clinic_Sales_Analysis.xlsx`: Sales data and revenue summary in Excel
+- `Clinic_Sales_Analysis_2025.pbit`: Interactive Power BI dashboard
+
+---
+
+## 📸 Preview:
+![Dashboard Screenshot](https://github.com/user-attachments/assets/b975f574-fb7e-40fd-8ff6-19ff72314865)
+)
+
+---
+
+Created with ❤️ by **Ahmed Sabry**  
+*Data Analyst & Flutter Developer in progress*
