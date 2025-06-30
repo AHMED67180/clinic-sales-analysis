@@ -12,7 +12,7 @@ It includes details such as services provided, doctor performance, patient insur
 
 ## ✅ Tools Used
 - Microsoft Excel
-
----
+- Power Bi
+![Clinic Sales Analysis](https://github.com/user-attachments/assets/7b645cf1-9820-4669-89cf-603b150fa01b)
 
 Created by **Ahmed Sabry** – 2025
