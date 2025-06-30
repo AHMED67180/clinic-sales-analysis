@@ -1,2 +1,2 @@
-# clinic-sales-analysis
-Sales data analysis using Excel
+- `Clinic_Sales_Analysis.xlsx`: Contains raw sales data and summary
+- `Clinic_Sales_Analysis_2025.pbit`: Interactive Power BI dashboard for visual analysis
