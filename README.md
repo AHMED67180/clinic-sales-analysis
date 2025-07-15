@@ -48,5 +48,25 @@ This project provides an Excel-based and Power BI analysis for a medical clinic�
 
 ---
 
+## 📊 Project 2 – Pharmacy Dashboard
+
+This Power BI dashboard analyzes 300+ pharmacy sales records from Excel.
+
+### Key Metrics:
+- Total Sales: $62.56K
+- Profit: $24.94K
+- Monthly breakdown
+- Customer count by month
+- Product analysis (Vitamin C, Panadol, etc.)
+
+📎 Files:
+- `Pharmacy_Sales_Data.xlsx`: Source data
+- `Pharmacy_Dashboard.pdf`: Power BI report export
+
+## 📸 Preview:
+![Pharmacy_Data_Analysis_charts_page-0001](https://github.com/user-attachments/assets/088f334b-c0d9-4ca1-8608-f08fd9d4752a)
+)
+
+
 Created with ❤️ by **Ahmed Sabry**  
 *Data Analyst & Flutter Developer in progress*
